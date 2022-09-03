@@ -89,7 +89,7 @@ Clothing: Women wore a double apron of deerskin, hanging from their waist to the
     
     <h1>About the Creator</h1>
     
-    <p>Hello! I am Carl_Panda2000. But, Carl_Panda2000 isn&#x27t my Github username. I'm in 4th grade. You might think a forth-grader can't do this much! But, they can! To get back to what I want to talk about, I am researching about the Chumash in class. Well, obviously, the teachers would not make us create a website. This is just for fun! I created this website on Khan Academy, then copy and pasted it on W3Schools, Then I pasted it on Github. Sorry, though, it ends in <q>.github.io</q>. But, <q>.com</q> costs money, so thats why it ends in <q>.github.io</q>. Instead of me playing video games, I created this website. This is my first website, I feel so proud, so please like this to make me more proud, I would very appreciate it a lot. Thank you for your time!</p>
+    <p>Hello! I am Carl_Panda2000. But, Carl_Panda2000 isn't my Github username. I'm in 4th grade. You might think a forth-grader can't do this much! But, they can! To get back to what I want to talk about, I am researching about the Chumash in class. Well, obviously, the teachers would not make us create a website. This is just for fun! I created this website on Khan Academy, then copy and pasted it on W3Schools, Then I pasted it on Github. Sorry, though, it ends in <q>.github.io</q>. But, <q>.com</q> costs money, so thats why it ends in <q>.github.io</q>. Instead of me playing video games, I created this website. This is my first website, I feel so proud, so please like this to make me more proud, I would very appreciate it a lot. Thank you for your time!</p>
 <br>
 <br>
 
